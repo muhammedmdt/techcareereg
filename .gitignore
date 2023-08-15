@@ -33,6 +33,7 @@ yarn-error.*
 
 # typescript
 *.tsbuildinfo
+<<<<<<< HEAD
 
 # compiled output
 /dist
@@ -124,3 +125,5 @@ lerna-debug.log
 .DS_Store
 Thumbs.db
 ios/
+=======
+>>>>>>> 74f9b06a574fe09d82e08300d89514c4f77de6ee
